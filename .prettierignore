@@ -1,0 +1,13 @@
+node_modules/
+prisma/
+.next
+.husky
+.prettierignore
+.stylelintignore
+.eslintignore
+*.log
+.nyc_output
+junit.xml
+pnpm-lock.yaml
+package-lock.json
+yarn.lock

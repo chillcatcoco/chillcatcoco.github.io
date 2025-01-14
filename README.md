@@ -1,3 +1,3 @@
-https://chilcatcoco.github.io
+[https://chilcatcoco.github.io](https://chillcatcoco.github.io/posts/hello)
 
 🐱🐱🐱🎶🎶🎶

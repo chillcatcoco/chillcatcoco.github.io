@@ -1,7 +1,7 @@
 ---
-title: OnyX: The Best Free Mac Cleanup Tool You’ll Ever Need
+title: 'OnyX: The Best Free Mac Cleanup Tool You’ll Ever Need'
 date: '2025-01-15'
-description: Discover why OnyX is the ultimate free app to clean and optimize your Mac. Say goodbye to clutter and hello to a faster, smoother system—all with an easy-to-use, no-cost tool!
+description: 'Discover why OnyX is the ultimate free app to clean and optimize your Mac. Say goodbye to clutter and hello to a faster, smoother system—all with an easy-to-use, no-cost tool!'
 ---
 
 ![Ony X icon](./onyx15.png)

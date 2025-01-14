@@ -43,6 +43,7 @@ export default async function PostPage({ params }: Props) {
   const urlEncoded = encodeURIComponent(url)
   const shareToBlueSky = `https://bsky.app/intent/compose?text=${urlEncoded}`
   const shareToX = `https://twitter.com/intent/tweet?url=${urlEncoded}`
+  const shareToThreads = `https://threads.net/intent/post?text=${urlEncoded}`
   // const editUrl = `https://github.com/${GITHUT_USERNAME}/${GITHUT_REPO_SLUG}/edit/main/public/posts/${urlEncoded}/index.md`
 
   return (
@@ -94,6 +95,8 @@ export default async function PostPage({ params }: Props) {
           <Link href={shareToX}>Share on X (Twitter)</Link>
           &nbsp;&nbsp;&middot;&nbsp;&nbsp;
           <Link href={shareToBlueSky}>Share on BlueSky</Link>
+          &nbsp;&nbsp;&middot;&nbsp;&nbsp;
+          <Link href={shareToThreads}>Share on Threads</Link>
         </p>
       </div>
     </article>

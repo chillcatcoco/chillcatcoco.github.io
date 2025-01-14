@@ -13,5 +13,5 @@ export const SITE_DESCRIPTION =
 // config author
 export const SITE_AUTHOR_NAME = 'ChillCatCoCo'
 export const SITE_AUTHOR_EMAIL = 'chillcatcoco@gmail.com'
-export const SITE_AUTHOR_URL = 'https://github.com/chillcatcoco'
+export const SITE_AUTHOR_URL = 'https://linktr.ee/chillcatcoco'
 export const SITE_AUTHOR_AVATAR_URL = 'https://github.com/chillcatcoco.png'

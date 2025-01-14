@@ -68,7 +68,7 @@ export default async function PostPage({ params }: Props) {
                 ? `/posts/${slug}/${props.src.slice(2)}`
                 : props.src
               // eslint-disable-next-line @next/next/no-img-element, jsx-a11y/alt-text
-              return <img {...props} src={src} className='w-full' />
+              return <img {...props} src={src} />
             },
             ...postComponents
           }}

@@ -60,7 +60,7 @@ function PostTitle({ post }: Props) {
       className={cn(
         sans.className,
         'text-3xl font-black',
-        'text-[--lightLink] dark:text-[--darkLink]'
+        'text-(--lightLink) dark:text-(--darkLink)'
       )}
       style={{
         // eslint-disable-next-line @typescript-eslint/no-explicit-any

@@ -48,7 +48,7 @@ export default async function PostPage({ params }: Props) {
 
   return (
     <article>
-      <h1 className={cn(sans.className, 'text-5xl font-black text-[--title]')}>
+      <h1 className={cn(sans.className, 'text-5xl font-black text-(--title)')}>
         {data.title}
       </h1>
       <p className='mt-2 text-sm text-gray-700 dark:text-gray-300'>

@@ -14,14 +14,14 @@ const eslintConfig = [
     'next/core-web-vitals',
     'next/typescript',
     'plugin:@typescript-eslint/recommended',
-    'plugin:tailwindcss/recommended',
+    // 'plugin:tailwindcss/recommended',
     'prettier'
   ),
   {
     settings: {
-      tailwindcss: {
-        callees: ['cn', 'clsx', 'twMerge']
-      }
+      // tailwindcss: {
+      //   callees: ['cn', 'clsx', 'twMerge']
+      // }
     }
   }
 ]
